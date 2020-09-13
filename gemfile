@@ -1,0 +1,4 @@
+source 'https://rubygems.org/'
+#gem 'itms_automation', '~> 2.6', '>= 2.6.5'
+#gem 'selenium-webdriver', '~> 3.142', '>= 3.142.7'
+#gem 'bundler_issue_report', '~> 0.0.3' 
